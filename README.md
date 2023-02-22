@@ -2,11 +2,14 @@
 Our first customized Deep learning model
 
 Aim:
+
 Given an image we attempt to predict whether a person has either of the diseases or has a normal vision.
 •	Diabetic Retinopathy
 •	Glaucoma
 •	Cataract
+
 Inputs Received:
+
 We received close to 4000 retinal images pertaining to the above four categories.
 The data was split into training and testing data set in the proportion 60% and 40% respectively
 For each of the above two categories there are four folders with the respective image sets.
