@@ -3,10 +3,12 @@ Our first customized Deep learning model
 
 Aim:
 
-Given an image we attempt to predict whether a person has either of the diseases or has a normal vision.
+Given an image we attempt to predict whether a person has either of the diseases or has a normal vision
 •	Diabetic Retinopathy
 •	Glaucoma
 •	Cataract
+
+
 
 Inputs Received:
 
