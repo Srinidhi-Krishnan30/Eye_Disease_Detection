@@ -20,10 +20,10 @@ We have built a custom model and not implemented the transfer learning methodolo
 
 What are the important points to keep in mind while building a model?
 
-•	The loaded dataset is rescaled to take values between 0 and 1
-•	The target image size was fixed to (150,150) to preserve maximum features
-•	Categorical Cross entropy was used for multiclass classification
-•	An early stopping with patience parameter =5 was used to prevent waste of training time by monitoring loss value
-•	Convolution 2D layer was added to suit the image inputs
-•	The final layer is a dense layer with 4 neurons(referring to number of output categories)
-•	All layers have an activation function of ‘relu’ while the last layer contains ‘SoftMax’ activation function
+The loaded dataset is rescaled to take values between 0 and 1
+The target image size was fixed to (150,150) to preserve maximum features
+Categorical Cross entropy was used for multiclass classification
+An early stopping with patience parameter =5 was used to prevent waste of training time by monitoring loss value
+Convolution 2D layer was added to suit the image inputs
+The final layer is a dense layer with 4 neurons(referring to number of output categories)
+All layers have an activation function of ‘relu’ while the last layer contains ‘SoftMax’ activation function
