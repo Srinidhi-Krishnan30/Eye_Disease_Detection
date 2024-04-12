@@ -1,5 +1,5 @@
 # Eye_Disease_Detection
-Our first customized Deep learning model
+Our first customized Deep learning model. This repository was made to hold the contents of the ML/DL contest 2023.
 
 ## AIM:
 Given an image we attempt to predict whether a person has either of the diseases or has a normal vision
