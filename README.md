@@ -15,7 +15,7 @@ For each of the above two categories there are four folders with the respective 
 
 We have built a custom model and not implemented the transfer learning methodology successfully
 
-## WHAT ARE THE IMPORTANT POINTS TO KEEP IN MIND WHILE BUILDEING A MODEL?
+## WHAT ARE THE IMPORTANT POINTS TO KEEP IN MIND WHILE BUILDING A MODEL?
 
 -	The loaded dataset is rescaled to take values between 0 and 1
 -	The target image size was fixed to (150,150) to preserve maximum features
